@@ -1,0 +1,17 @@
+h1{
+
+    color: darkblue;
+    text-align: center;
+}
+
+.vermelho{
+    color: red;/*o atributo color, insere cor dentro de um texto*/
+}
+
+.azul{
+    color: blue;/*o atributo color, insere cor dentro de um texto*/
+}
+
+.verde{
+    color: green;/*o atributo color, insere cor dentro de um texto*/
+}

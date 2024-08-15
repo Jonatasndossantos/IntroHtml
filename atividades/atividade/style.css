@@ -1,0 +1,73 @@
+body{
+    background-color: antiquewhite;
+}
+
+header{
+    width: 1000px;
+    height: 350px;
+    background-color:  rgb(63, 185, 145);
+    margin: auto;
+}
+
+nav{
+    width: 1000px;
+    height: 350px;
+    background-color: darkgrey;
+    margin: auto;
+}
+main{
+    width: 1000px;
+    height: 500px;
+    background-color:  rgb(63, 185, 145);
+    margin: auto;
+}
+article{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(71, 252, 192);
+    float: left;
+}
+aside{
+    width: 500px;
+    height: 500px;
+    background-color: cyan;
+    float: left;
+}
+.cinza{
+    width: 250px;
+    height: 250px;
+    background-color: gray;
+    float: left;
+}
+.verdee{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(63, 185, 145);
+    float: left;
+}
+.verdec{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(141, 255, 217);
+    float: left;
+}
+.verde{
+    width: 250px;
+    height: 250px;
+    background-color: cyan;
+    float: left;
+}
+
+
+section{
+    width: 1000px;
+    height: 300px;
+    background-color: darkgrey;
+    margin: auto;
+}
+footer{
+    width: 1000px;
+    height: 250px;
+    background-color:  rgb(63, 185, 145);
+    margin: auto;
+}

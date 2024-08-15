@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+#container{
+    width: 1200px;
+    height: 1100px;
+    background-color: gray;
+    margin: auto; /*regra para deixar a div centralizada */
+}
+
+header{
+    width: 1200px;
+    height: 150px;
+    background-color: violet;
+}
+
+main{
+    width: 1200px;
+    height: 800px;
+    background-color: aqua;
+}
+
+section{
+    width: 900px;
+    height: 800px;
+    background-color: blue;
+    float: left;
+}
+
+aside{
+    width: 300px;
+    height: 800px;
+    background-color: blueviolet;
+    float: right;
+}
+
+footer{
+    width: 1200px;
+    height: 150px;
+    background-color: darkblue
+}

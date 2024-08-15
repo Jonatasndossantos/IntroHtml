@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(139, 21, 0, 0.733);
+    color: rgb(255, 228, 212);
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+figure{
+    text-align: center;
+    img{
+    border-radius: 50%;
+    border-color: black;
+}
+}
+
+button{
+    text-align: center;
+    
+    width: 120;
+    height: 50;
+    
+    background-color: rgb(255, 182, 139);
+    color: darkred;
+    font-weight: bold;
+    border-radius: 7px;
+    border-color: rgb(255, 182, 139);
+}
